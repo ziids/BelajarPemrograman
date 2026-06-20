@@ -1,7 +1,8 @@
 # BelajarPemrograman
-[![Go](https://badgen.net/badge/icon/Golang?icon=go&label)](https://github.com/ziids/BelajarPemrograman/tree/main/Go)
-
 Soal untuk melatih Logika Dasar Dalam Pemrograman
+
+[![Go](https://badgen.net/badge/icon/Golang?icon=go&label)](https://github.com/ziids/BelajarPemrograman/tree/main/Go)
+[![Python](https://badgen.net/badge/icon/Python?icon=python&label)](https://github.com/ziids/BelajarPemrograman/tree/main/Python)
 
 ## 1. Menghitung Total Belanja
 
